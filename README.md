@@ -1,4 +1,5 @@
-# NanoHarbor CCI (Cloud Computing & Infrastructure School)
+# NanoHarbor CCIS 
+## (Cloud Computing & Infrastructure School)
 
 Welcome to the **Cloud Computing & Infrastructure School (CCI)** repository! This repository is dedicated to hands-on labs and resources designed for IT professionals and students looking to develop skills in Azure cloud infrastructure, automation, and security management.
 
@@ -8,7 +9,8 @@ Our labs are crafted to provide practical experience with enterprise-grade solut
 
 ## Table of Contents
 
-- [NanoHarbor CCI (Cloud Computing \& Infrastructure School)](#nanoharbor-cci-cloud-computing--infrastructure-school)
+- [NanoHarbor CCIS](#nanoharbor-ccis)
+  - [(Cloud Computing \& Infrastructure School)](#cloud-computing--infrastructure-school)
   - [Table of Contents](#table-of-contents)
   - [About This School](#about-this-school)
   - [Lab Categories](#lab-categories)
