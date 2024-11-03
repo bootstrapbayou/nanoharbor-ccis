@@ -1,5 +1,5 @@
-# NanoHarbor CCIS 
-## (Cloud Computing & Infrastructure School)
+<h1 align="center">NanoHarbor CCIS</h1>
+<h2 align="center">Cloud Computing & Infrastructure School</h2>
 
 Welcome to the **Cloud Computing & Infrastructure School (CCI)** repository! This repository is dedicated to hands-on labs and resources designed for IT professionals and students looking to develop skills in Azure cloud infrastructure, automation, and security management.
 
@@ -9,18 +9,16 @@ Our labs are crafted to provide practical experience with enterprise-grade solut
 
 ## Table of Contents
 
-- [NanoHarbor CCIS](#nanoharbor-ccis)
-  - [(Cloud Computing \& Infrastructure School)](#cloud-computing--infrastructure-school)
-  - [Table of Contents](#table-of-contents)
-  - [About This School](#about-this-school)
-  - [Lab Categories](#lab-categories)
-    - [Infrastructure Setup](#infrastructure-setup)
-    - [Cloud Automation](#cloud-automation)
-    - [Security \& Compliance](#security--compliance)
-  - [Getting Started](#getting-started)
-  - [Additional Resources](#additional-resources)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Table of Contents](#table-of-contents)
+- [About This School](#about-this-school)
+- [Lab Categories](#lab-categories)
+  - [Infrastructure Setup](#infrastructure-setup)
+  - [Cloud Automation](#cloud-automation)
+  - [Security \& Compliance](#security--compliance)
+- [Getting Started](#getting-started)
+- [Additional Resources](#additional-resources)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
